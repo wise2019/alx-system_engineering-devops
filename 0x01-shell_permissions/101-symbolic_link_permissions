@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h wise:kafui _hello
+chown -h vincent:staff _hello
