@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=guillaume wise hello
+chown betty hello --from=guillaume
